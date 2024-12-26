@@ -1,4 +1,4 @@
-# ATTiny_85_Programmer
+# ATTiny 85 Programmer
 ![image](https://github.com/user-attachments/assets/731d9ab6-fcc2-432f-b610-fa665e0e3240)
 
 
