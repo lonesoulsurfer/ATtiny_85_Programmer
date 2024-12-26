@@ -1,6 +1,7 @@
 # ATtiny 85 Programmer
 ![image](https://github.com/user-attachments/assets/731d9ab6-fcc2-432f-b610-fa665e0e3240)
 
+*Parts list can be found in the Instructables link below*
 
 Make your own ATtiny 85 programmer using an Arduino Nano and a custom made PCB!
 
